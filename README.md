@@ -48,8 +48,8 @@
 ![ex3 2](https://github.com/user-attachments/assets/ef164838-8949-4baa-b0fe-a258b8239204)
 
 
-### Name:MOHANA K.V.S.L
-### Register Number:212224240093
+### Name:MOULIDHAR
+### Register Number:212223240042
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
